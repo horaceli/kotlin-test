@@ -1,0 +1,8 @@
+.idea
+.gradle
+build
+out
+docker/data
+.DS_Store
+.teamcity/target
+__pycache__/
